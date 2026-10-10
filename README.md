@@ -33,5 +33,7 @@ I am interested in **graduate and junior software engineering opportunities**, p
 ## CONTACT
 
 **LinkedIn:** [linkedin.com/in/christosgkovaris](https://www.linkedin.com/in/christosgkovaris)
+
 **Portfolio:** [christosgkovaris.github.io/Personal-Portfolio-Project](https://christosgkovaris.github.io/Personal-Portfolio-Project/)
+
 **Email:** [christosgkovariscs52@gmail.com](mailto:christosgkovariscs52@gmail.com)
